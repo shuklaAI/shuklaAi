@@ -74,17 +74,6 @@ Currently pursuing **B.Tech in Computer Science (AI/ML)**, I build intelligent s
 
 ---
 
-### 🚀 Featured Projects
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-- 🧠 **AI-Powered Quiz System** — Adaptive quiz app with instant scoring & AI question generation.  
-- 🎨 **Text-to-Image Generator** — Transforms text prompts into AI-generated art.  
-- 🧾 **Student Management System** — Web app for enrollment, grading, and analytics.  
-- 💼 **Portfolio Website** — Personal site showcasing AI/ML & design work.  
-- ✅ **To-Do Priority App** — Task manager with color-coded priorities.
-
----
-
 ### 🏆 Certifications & Learning
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
