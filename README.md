@@ -13,16 +13,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I'm a Computer Science student focused on building performant, intuitive web interfaces with ReactJS and NextJS.<br>I enjoy crafting clean code, solving real-world problems, and continuously learning new tools.
-
-- 📚 I’m currently learning ...
-  - _ReactJS_
-  - _NextJS_
-  - _TypeScript_
-- 💻 Aiming to become a Full Stack Developer — currently working with the MERN stack to build web apps
-- 🤖 Exploring the world of AI/ML
-- 🚀 Always excited to dive into new projects and collaborate with others.
-- ✔ Feel free to ask me anything! I’m motivated to help others.
+B.Tech student specializing in AI/ML withhands-on experience building applications,models, and web tools. Skilled in Python,Java, and C++ with knowledge of machine learning, deep learning, NLP, and prompt engineering. Applied AI in edtech, media, and content automation.
 <!-- - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music -->
   <br>
 
