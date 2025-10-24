@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=80&width=800&&duration=3000&lines=Heyyy!+I'm+Nilanshu+Kumar+Singh;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=80&width=800&&duration=3000&lines=Heyyy!+I'm+Abhinav+Shukla;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 <h3 aligh="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...</h3>
@@ -26,7 +26,7 @@ I'm a Computer Science student focused on building performant, intuitive web int
 <!-- - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music -->
   <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilanshukumarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="nilanshukumarsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Satansupreme&label=Profile%20views&color=0e75b6&style=flat" alt="Satansupreme" /> </p>
 
 <h3>&nbsp;</h3>
 
@@ -111,14 +111,14 @@ I'm a Computer Science student focused on building performant, intuitive web int
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilanshukumarsingh&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satansupreme&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
   </p>
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanshukumarsingh&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satansupreme&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=midnight-purple"/>
   </p>
   
   <p> 
-    <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilanshukumarsingh&theme=midnight_purple" alt="nilanshukumarsingh"/>
+    <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satansupreme&theme=midnight_purple" alt="Satansupreme"/>
   </p>
   
 </div>
@@ -131,9 +131,9 @@ I'm a Computer Science student focused on building performant, intuitive web int
   <!--
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       </a>
-          <img src="https://github-profile-trophy.vercel.app/?username=nilanshukumarsingh&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" /> 
+          <img src="https://github-profile-trophy.vercel.app/?username=Satansupreme&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" /> 
         -->
-        <img src="https://github-profile-trophy.vercel.app/?username=nilanshukumarsingh&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Satansupreme&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     
 </h2>
 
@@ -155,7 +155,7 @@ I'm a Computer Science student focused on building performant, intuitive web int
 -->
 
 <div align="center">
-  <img src="https://github.com/nilanshukumarsingh/nilanshukumarsingh/blob/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake" />
+  <img src="https://github.com/Satansupreme/Satansupreme/blob/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake" />
 </div>
   
 <h3 aligh="left"><img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> Contact with me :3</h2>
@@ -169,17 +169,17 @@ I'm a Computer Science student focused on building performant, intuitive web int
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="sonwjnn-facebook" />
   </a>
   -->
-  <a href="https://www.github.com/nilanshukumarsingh" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" alt="nilanshu-github" />
+  <a href="https://www.github.com/Satansupreme" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" alt="Satansupreme" />
   </a>
-  <a href="https://www.instagram.com/nilan_.xhu" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nilanshu-instagram" />
+  <a href="https://www.instagram.com/___abhinav._" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Satansupreme" />
   </a>
-  <a href="mailto:nilanshukumarsingh2005@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nilanshu-email" />
+  <a href="mailto:abhinav.shukla@outlook.in" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
   </a>
 </div>
 <br>
 <div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=285&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+NILANSHU+KUMAR+SINGH" alt="build with love svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=285&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+ABHINAV+SHUKLA" alt="build with love svg" />
 </div>
