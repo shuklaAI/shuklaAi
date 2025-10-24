@@ -128,7 +128,7 @@ Currently pursuing **B.Tech in Computer Science (AI/ML)**, I build intelligent s
 
 <div align="center">
   <a href="https://github.com/Satansupreme"><img src="https://img.icons8.com/?size=100&id=118553&format=png&color=00FFFF" width="50px" /></a>
-  <a href="https://www.instagram.com/___abhinav._"><img src="https://img.icons8.com/bubbles/100/00FFFF/instagram-new.png" width="50px" /></a>
+  <a href="https://www.instagram.com/___.abhinav_"><img src="https://img.icons8.com/bubbles/100/00FFFF/instagram-new.png" width="50px" /></a>
   <a href="mailto:abhinav.shukla@outlook.in"><img src="https://img.icons8.com/bubbles/100/00FFFF/apple-mail.png" width="50px" /></a>
   <a href="https://linkedin.com/in/abhinav-shukla-837141300"><img src="https://img.icons8.com/bubbles/100/00FFFF/linkedin.png" width="50px" /></a>
 </div>
