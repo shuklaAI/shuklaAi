@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=80&width=800&&duration=3000&lines=Heyyy!+I'm+Abhinav+Shukla;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=80&width=800&&duration=3000&lines=+Abhinav+Shukla;Abhinav+Shukla" alt="Title"></img>
 </div>
 
 <h3 aligh="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...</h3>
