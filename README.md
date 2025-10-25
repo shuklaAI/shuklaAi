@@ -1,11 +1,7 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img width="1001" height="201" alt="image" src="https://github.com/user-attachments/assets/bd60c051-fe02-435f-9bfc-38fa8bb228ad" />
 
 <div align="center">
-  <img width="100%" src="assets/banner.png" alt="cover"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=40&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=⚡+Abhinav+Shukla;AI/ML+Engineer+%7C+Building+the+Future+with+Code" alt="Typing SVG">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=40&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=⚡+Abhinav+Shukla;AI/ML+Engineer+%7C+Building+the+Future+with+Code" alt="Typing SVG">
 </div>
 
 <p align="center">
@@ -47,12 +43,12 @@ Currently pursuing **B.Tech in Computer Science (AI/ML)**, I build intelligent s
 
 #### 🤖 AI/ML Tools  
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)
-![Sklearn](https://skillicons.dev/icons?i=sklearn&theme=dark)
-![Pandas](https://skillicons.dev/icons?i=pandas&theme=dark)
-![Numpy](https://skillicons.dev/icons?i=numpy&theme=dark)
-![Google Colab](https://skillicons.dev/icons?i=colab&theme=dark)
-![Hugging Face](https://skillicons.dev/icons?i=huggingface&theme=dark)
-![OpenAI](https://skillicons.dev/icons?i=openai&theme=dark)
+![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn&theme=dark)
+<img width="121" height="53" alt="image" src="https://github.com/user-attachments/assets/b0abbfc2-1dce-433a-a684-cb31056c511a" />
+<img width="86" height="57" alt="image" src="https://github.com/user-attachments/assets/0f80fc8b-d1cc-4681-8c7a-d2974c031936" />
+<img width="135" height="97" alt="image" src="https://github.com/user-attachments/assets/6a77f02f-68c9-4deb-a405-f75e64658b87" />
+<img width="129" height="95" alt="image" src="https://github.com/user-attachments/assets/5738df04-d0ed-4284-b9b7-beae7ffac7ca" />
+<img width="92" height="56" alt="image" src="https://github.com/user-attachments/assets/1be36353-eec8-4bf8-ab66-9f06706ba07b" />
 
 #### 🌐 Web Development  
 ![HTML](https://skillicons.dev/icons?i=html&theme=dark)
@@ -89,9 +85,9 @@ Currently pursuing **B.Tech in Computer Science (AI/ML)**, I build intelligent s
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satansupreme&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satansupreme&layout=compact&theme=midnight-purple&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satansupreme&theme=midnight_purple" alt="Profile Summary"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shuklaAi&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklaAi&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuklaAi&theme=midnight_purple" alt="Profile Summary"/>
 </div>
 
 ---
@@ -100,14 +96,14 @@ Currently pursuing **B.Tech in Computer Science (AI/ML)**, I build intelligent s
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satansupreme&theme=radical&row=1&column=7&no-bg=true&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shuklaAi&theme=radical&row=1&column=7&no-bg=true&margin-w=10" alt="Trophies"/>
 </div>
 
 ---
 
 ### 🐍 Contribution Graph  
 <div align="center">
-  <img src="https://github.com/Satansupreme/Satansupreme/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/shuklaAi/shuklaAi/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -116,7 +112,7 @@ Currently pursuing **B.Tech in Computer Science (AI/ML)**, I build intelligent s
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <a href="https://github.com/Satansupreme"><img src="https://img.icons8.com/?size=100&id=118553&format=png&color=00FFFF" width="50px" /></a>
+  <a href="https://github.com/shuklaAi"><img src="https://img.icons8.com/?size=100&id=118553&format=png&color=00FFFF" width="50px" /></a>
   <a href="https://www.instagram.com/___abhinav._"><img src="https://img.icons8.com/bubbles/100/00FFFF/instagram-new.png" width="50px" /></a>
   <a href="mailto:abhinav.shukla@outlook.in"><img src="https://img.icons8.com/bubbles/100/00FFFF/apple-mail.png" width="50px" /></a>
   <a href="https://linkedin.com/in/abhinav-shukla-837141300"><img src="https://img.icons8.com/bubbles/100/00FFFF/linkedin.png" width="50px" /></a>
