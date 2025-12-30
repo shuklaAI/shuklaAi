@@ -594,5 +594,3 @@ const devLife = {
   "Code is poetry, and AI is the future." - Abhinav Shukla
 -->
 ```
-
-**There you go!** Complete code from the "OPEN FOR" section onwards. Just paste this after the email badge in your README! 🚀✨
